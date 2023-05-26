@@ -1,0 +1,35 @@
+Create a website with folllowing features
+
+1. User Able to sign up and create account  by filling the following details such as
+form
+screen 1  First name , Last Name , email , password , number 
+screen 2 otp verification 
+sreen 3 
+
+
+
+
+
+
+Functionalities for Non-Account Users:
+
+Scheme Search: Allow non-account users to search for government schemes based on various criteria such as sector, eligibility criteria, location, and keywords. Provide an intuitive search interface to make it easy for users to find relevant schemes.
+
+Scheme Details: Display comprehensive information about each scheme, including eligibility requirements, benefits, application process, important dates, and contact information.
+
+Scheme Categories: Categorize schemes into different sections or sectors (e.g., agriculture, education, healthcare) to help users browse and explore schemes based on their areas of interest.
+
+Scheme Updates: Provide a section on the website where non-account users can stay updated with the latest government scheme announcements and news. This can include information on new schemes, policy changes, and updates to existing schemes.
+
+Functionalities for Account Holders:
+
+User Registration: Allow users to create an account on your website, providing their personal information, contact details, and relevant preferences (e.g., age, income, location, sector of interest).
+
+Personalized Scheme Recommendations: Based on the information provided during registration, offer personalized scheme recommendations to account holders that match their criteria and eligibility. Implement a recommendation engine that suggests schemes based on user preferences and eligibility factors.
+
+Notifications and Alerts: Set up a notification system to inform account holders about new schemes or updates that align with their criteria. This can be through email notifications, push notifications on the website, or a dashboard where users can view their personalized scheme alerts.
+
+Application Management: Provide a dashboard for account holders to track their scheme applications, view their application status, and access relevant documentation.
+
+User Profile Management: Allow account holders to update their personal information, preferences, and notification settings. Provide a user-friendly interface for managing their profile and account details.
+It's important to ensure that the functionalities for non-account users provide enough information and ease of access to government schemes. By encouraging users to create an account, you can offer a more personalized experience, tailored recommendations, and timely notifications for new schemes. This approach can help increase user engagement and satisfaction with the portal.
