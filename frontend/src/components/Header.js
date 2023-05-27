@@ -2,7 +2,11 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>Header</div>
+    <div>
+        <div className="left"></div>
+        <div className="center"></div>
+        <div className="right"></div>
+    </div>
   )
 }
 
